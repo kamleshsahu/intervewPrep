@@ -46,7 +46,7 @@ public class MaxConsecutiveGap {
     }
 }
 
-//
+//Day2
 //Difficulty: Medium
 //Brute Force :
 //sort the array
