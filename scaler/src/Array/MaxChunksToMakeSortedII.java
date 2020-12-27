@@ -24,3 +24,9 @@ class MaxChunksToMakeSortedII {
 
     }
 }
+
+//day 6 , hw
+//diff : medium
+//key : sort and compare
+//brute force:
+//O(n logn)
