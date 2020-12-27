@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class RainWaterTrapped {
     public int trap(final int[] height) {

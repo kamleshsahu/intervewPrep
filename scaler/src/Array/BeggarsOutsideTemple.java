@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class BeggarsOutsideTemple {
     public int[] solve(int baggers, int[][] queries) {

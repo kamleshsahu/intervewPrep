@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class SearchingInRowWiseAndColumnWiseSortedMatrix {
     public int solve(int[][] A, int B) {

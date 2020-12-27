@@ -1,5 +1,7 @@
 package ArrayAndMaths;
 
+import java.util.Arrays;
+
 public class NextPermutation {
 
     public int[] nextPermutation(int[] number) {
