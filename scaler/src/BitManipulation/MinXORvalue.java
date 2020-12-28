@@ -64,3 +64,14 @@ public class MinXORvalue {
         }
     }
 }
+
+//day 12
+//diff: easy
+//key : tries, straitforwd
+//
+//brute force:
+//O(n^2)
+//
+//Optimise:
+//tries
+//O(n*32)
