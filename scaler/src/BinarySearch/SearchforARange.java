@@ -1,3 +1,8 @@
+package BinarySearch;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class SearchforARange {
     // DO NOT MODIFY THE LIST
     public ArrayList<Integer> searchRange(final List<Integer> a, int b) {
