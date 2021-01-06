@@ -49,3 +49,6 @@ public class BusAndPassenger {
         }
     }
 }
+
+//diff : medium-easy
+//T.C = O(n)
