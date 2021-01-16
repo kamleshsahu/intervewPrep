@@ -37,5 +37,5 @@ public class SumtheDiff {
     }
 }
 
-diff :medium-easy
-t.c = O(nlog n)
+//diff :medium-easy
+//t.c = O(nlog n)
