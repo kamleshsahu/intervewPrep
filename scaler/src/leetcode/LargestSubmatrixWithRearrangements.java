@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class MaxRectangle {
+public class LargestSubmatrixWithRearrangements {
 
     public int largestSubmatrix(int[][] matrix) {
         for(int i = 1; i < matrix.length; i++){
