@@ -21,7 +21,7 @@ public class LetsParty {
         return ans%mod;
     }
 }
-
+//keywords : no of ways to party in pair
 //hint: try to break the problem into smaller parts
 //diff:
 //logic: medium-hard
