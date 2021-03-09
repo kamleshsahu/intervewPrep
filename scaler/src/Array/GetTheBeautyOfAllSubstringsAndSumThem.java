@@ -42,3 +42,6 @@ public class GetTheBeautyOfAllSubstringsAndSumThem {
         return sum;
     }
 }
+// take care of edge case, find what will be min?
+// can it be 0;
+// t.c = O(n^2)
